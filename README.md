@@ -1,51 +1,43 @@
 # Hi there, I'm Muhammad Mohsin! 👋
 
-**Python Developer | Web Scraping Specialist | Freelancer**
+### Python Developer | Web Scraping Specialist | Automation Enthusiast | Freelancer
 
-I'm a passionate self-taught developer from Pakistan, currently learning Python and web scraping. I’m open to freelance opportunities and love building automation tools that solve real-world problems.
+I'm a self-taught developer with over 2 years of hands-on experience in Python development and web scraping. I specialize in building robust automation tools and scalable scraping solutions to extract, clean, and structure data from the web.
+
+Throughout my journey, I’ve worked on several personal and freelance projects involving real-time data collection, automation pipelines, and data processing using Python. I believe in writing clean, maintainable code and love optimizing scripts for performance and accuracy.
+
+Currently open to freelance and remote opportunities — especially those involving web automation, scraping bots, or backend scripting. My focus is on solving real-world problems using code that just works.
 
 ---
 
 ## 🚀 Tech Stack:
-- **Languages:** Python, HTML
-- **Tools & Libraries:** BeautifulSoup, Requests, Selenium (soon), Pandas (learning)
-- **Currently Learning:** Advanced Python, Web Scraping Projects, APIs
+
+- **Languages:** Python, HTML  
+- **Libraries & Tools:**  
+  `BeautifulSoup`, `Requests`, `Selenium`, `Pandas`, `Playwright`, `lxml`, `Git`
+
+- **Concepts:**  
+  Web scraping best practices, anti-bot bypassing, browser automation, API integration, data parsing, and structuring.
 
 ---
 
-## 📌 Goals:
-- Master Python and web scraping by June 2025
-- Start freelance work on platforms like Fiverr
-- Build real-world automation and scraping tools
-- Study Cybersecurity abroad (Germany dream!)
+## 📂 Notable Projects:
+
+- **Dynamic Content Scraper**  
+  A Selenium-based bot designed to scrape dynamic JavaScript-rendered content from modern websites. Equipped with headless mode and user-agent rotation.
+
+- **News Aggregator**  
+  An automated script that collects articles from multiple news sources, stores them in a structured format (JSON/CSV), and sends daily summaries via email.
+
+- **E-commerce Price Tracker**  
+  Real-time price monitoring tool for selected products. Alerts users on price drops using Python’s `smtplib`.
+
+(Feel free to browse my repositories for more.)
 
 ---
 
-## 📂 Projects:
-Coming soon! Stay tuned for some cool scraping tools and Python scripts.
+## 📫 Let's Connect:
 
----
+I'm always open to collaborating with like-minded developers, clients looking for smart automation, or anyone building something impactful. Feel free to reach out for freelance projects, long-term collaboration, or just to network.
 
-## 📬 Contact Me:
-- **Email:** mmohsinofficial01@gmail.com  
-- **Instagram:** [@mohsin_x78](https://www.instagram.com/mohsin_x78)  
-- **Facebook:** [m.mohsin105](https://www.facebook.com/m.mohsin105)
-
----
-
-_“Dreaming big, learning daily, and building a better future.”_
-
-<!--
-**Mohsin-Pk/Mohsin-Pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Thanks for stopping by!**
